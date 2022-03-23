@@ -1,0 +1,11 @@
+[
+    {
+        "name":"Wally: DramaCool",
+        "pkg":"com.zeoowl.wally.en.dramacool",
+        "apk":"wally-en.dramacool-v1.0.apk",
+        "lang":"en",
+        "code":1,
+        "version":"1.0.0",
+        "nsfw":0
+    }
+]
